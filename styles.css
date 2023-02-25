@@ -1,0 +1,49 @@
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 0;
+  padding: 2rem 1rem;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+.dice {
+  padding: 1rem;
+}
+
+.button-div {
+  padding: 0.5rem 2rem;
+}
+
+.game-btn {
+  padding: 1rem 2rem;
+  margin: 1rem;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+@media (max-width: 450px) {
+h1 {
+    margin: 0;
+    font-size: 3rem;
+  }
+}
+
+
+
